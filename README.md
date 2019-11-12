@@ -5,3 +5,4 @@ This is a Java application using Computer Vision. Given an image, it outputs a f
 ## Built With
 
 * Java
+* OpenCV
